@@ -1,7 +1,5 @@
-Hi there, I am a young electrical engineer (EE) with an interest in software and electronics engineering.<br/>
-<br/>
-On my GitHub profile you can find a range of software projects I have worked on which mainly relate to embedded systems/firmware development as well as IC (integrated circuit) emulation. 
+[The Lunar Journal](https://journal.lunar.sh/) - Technical journal for engineers, hobbyists and makers hosted by [Lunar RF Labs](https://lunar.sh)
 
-Visit my journal @ [spacehen.io](http://spacehen.io)
+Authors: [Dylan Muller](https://www.linkedin.com/in/lunarjournal)
 
-[![Top Langs](https://github-readme-stats-48wc.vercel.app/api/top-langs/?username=spacehen&layout=compact)](https://github.com/spacehen/github-readme-stats)
+[![Top Langs](https://github-readme-stats-48wc.vercel.app/api/top-langs/?username=lunarjournal&layout=compact)](https://github.com/spacehen/github-readme-stats)

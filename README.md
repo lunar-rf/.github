@@ -1,4 +1,4 @@
-[Lunar Journal](https://journal.lunar.sh/) - Technical journal for engineers, hobbyists and makers hosted by [@Lunar RF Labs](https://lunar.sh)
+[Lunar Journal](https://journal.lunar.sh/) - Technical journal for engineers, hobbyists and makers hosted by [@Lunar RF Labs](https://github.com/lunar-rf)
 
 Authors: [Dylan Müller](https://www.linkedin.com/in/lunarjournal)
 

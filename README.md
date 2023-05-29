@@ -2,8 +2,8 @@
 
 Authors: [Dylan Müller](https://www.linkedin.com/in/lunarjournal)
 
-For more visit [https://journal.lunar.sh/about/](https://journal.lunar.sh/about/)
-
 ![](https://lunarjournal.github.io/images/personal/me_bw.jpeg)
 
 [![Top Langs](https://github-readme-stats-48wc.vercel.app/api/top-langs/?username=lunarjournal&layout=compact)](https://github.com/spacehen/github-readme-stats)
+
+For more visit [https://journal.lunar.sh/about/](https://journal.lunar.sh/about/)

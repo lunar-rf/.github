@@ -1,4 +1,6 @@
-[Lunar Journal](https://journal.lunar.sh/) - Technical journal for engineers, hobbyists and makers hosted by [@lunar-rf](https://github.com/lunar-rf) labs. 
+[Lunar Journal](https://journal.lunar.sh/)
+
+Technical journal for engineers, hobbyists and makers hosted by [@lunar-rf](https://github.com/lunar-rf) labs. 
 
 For more info visit the journal's [about](https://journal.lunar.sh/about/) page.
 

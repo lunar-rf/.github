@@ -1,4 +1,4 @@
-[Lunar Journal](https://journal.lunar.sh/)
+[journal.lunar.sh](https://journal.lunar.sh/)
 
 Technical journal for engineers, hobbyists and makers hosted by [@lunar-rf](https://github.com/lunar-rf) labs. 
 

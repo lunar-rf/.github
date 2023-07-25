@@ -3,7 +3,8 @@
 Technical journal for engineers, hobbyists and makers hosted by [@lunar-rf](https://github.com/lunar-rf) labs.<br>
 For more info visit the journal's [about](https://journal.lunar.sh/about/) page.
 
-**Note**: The repositories available here are authored by contributors to the Lunar Journal.
+**Warning**: The repositories available here are authored by contributors to the Lunar Journal.<br>
+All rights reserved.
 
 Authors: 
 - [Dylan Müller](https://www.linkedin.com/in/lunarjournal)

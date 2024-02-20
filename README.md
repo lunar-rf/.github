@@ -6,7 +6,7 @@ For more info visit the journal's [about](https://journal.lunar.sh/about/) page.
 **Warning**: The repositories available here are authored by contributors to the Lunar Journal.<br>
 All rights reserved.
 
-Email: [root@lunar.sh](mailto:root@lunar.sh)
+Contact us: [root@lunar.sh](mailto:root@lunar.sh)
 
 Authors: 
 - [Dylan Müller](https://www.linkedin.com/in/lunarjournal)

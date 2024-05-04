@@ -1,6 +1,6 @@
 The Lunar Journal: [journal.lunar.sh](https://journal.lunar.sh/) [[source](https://github.com/lunarjournal/lunarjournal.github.io)]
 
-Technical journal for engineers, hobbyists and makers.
+Technical journal for engineers, hobbyists and makers. <br>
 For more info visit the journal's [about](https://journal.lunar.sh/about/) page.
 
 **Warning**: The repositories available here are authored by contributors to the Lunar Journal.<br>

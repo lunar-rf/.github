@@ -1,8 +1,6 @@
 The Lunar Journal: [journal.lunar.sh](https://journal.lunar.sh/)
 
 Technical journal for engineers, hobbyists and makers. <br>
-For more info visit the journal's [about](https://journal.lunar.sh/about/) page.
-
 Contact us: [root@lunar.sh](mailto:root@lunar.sh)
 
 Authors: 

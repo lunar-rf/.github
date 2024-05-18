@@ -1,4 +1,4 @@
-The Lunar Journal: [journal.lunar.sh](https://journal.lunar.sh/)
+Lunar Journal: [journal.lunar.sh](https://journal.lunar.sh/)
 
 Technical journal for engineers, hobbyists and makers. <br>
 Contact us: [root@lunar.sh](mailto:root@lunar.sh)

@@ -1,7 +1,8 @@
 `Lunar Journal`: [`journal.lunar.sh`](https://journal.lunar.sh/) [ [`source`](https://github.com/lunarjournal/lunarjournal.github.io/) ]
 
-> Technical journal for engineers, hobbyists and makers. <br>
-> Contact email: [`root@lunar.sh`](mailto:root@lunar.sh)
+> Technical journal for engineers, hobbyists and makers.
+
+Contact email: [`root@lunar.sh`](mailto:root@lunar.sh)
 
 Authors: 
 - [`Dylan Müller`](https://www.linkedin.com/in/dylanmuller)

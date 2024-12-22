@@ -7,6 +7,6 @@
 `Authors`: 
 - [`Dylan Müller`](https://www.linkedin.com/in/dylanmuller)
 
-[![Top Langs](https://github-readme-stats-48wc.vercel.app/api/top-langs/?username=lunarjournal&layout=compact&theme=nord)](https://github.com/lunarjournal/github-readme-stats)
+[![Top Langs](https://github-readme-stats-48wc.vercel.app/api/top-langs/?username=lunarjournal&layout=compact&theme=calm)](https://github.com/lunarjournal/github-readme-stats)
 
 

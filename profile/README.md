@@ -21,4 +21,4 @@
 +---------------------------------------+
 ```
 
-`Lunar Journal` : [`journal.lunar.sh`](https://lunar.sh)
+[`Lunar Journal`](https://github.com/lunarjournal) : [`journal.lunar.sh`](https://lunar.sh)

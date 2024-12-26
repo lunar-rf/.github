@@ -30,4 +30,4 @@
 +---------------------------------------+
 ```
 
-[![](https://github.com/lunarjournal/stegwasm/blob/master/giffy/int.gif?raw=true)](https://github.com/lunarjournal/stegwasm) @[`0xc0ffee`](https://in.pinterest.com/pin/155303888225636560/)
+[![](https://github.com/lunarjournal/stegwasm/blob/master/giffy/int.gif?raw=true)](https://github.com/lunarjournal/stegwasm) @[`0xc0ffee`](https://in.pinterest.com/pin/155303888225636560/) land

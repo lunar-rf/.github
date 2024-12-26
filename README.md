@@ -10,7 +10,6 @@
 `Hosted by`: [`Lunar RF Labs`](https://lunar.sh)
 
 ```
-$ curl lunar.sh | bash
 +---------------------------------------+
 |   .-.         .-.         .-.         |
 |  /   \       /   \       /   \        |

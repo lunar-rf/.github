@@ -1,6 +1,6 @@
 `Lunar Journal`: [`journal.lunar.sh`](https://journal.lunar.sh/) [[`source`](https://github.com/lunarjournal/lunarjournal.github.io/)]
 
-> Technical journal for engineers, hackers and hobbyists.
+> Technical journal for engineers, researchers and hobbyists.
 
 `Contact email`: [`root@lunar.sh`](mailto:root@lunar.sh)
 

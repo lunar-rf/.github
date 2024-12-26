@@ -8,6 +8,8 @@
 - [`Dylan Müller`](https://www.linkedin.com/in/dylanmuller)
 
 ```
+Hosted by: Lunar RF Labs
+
 +---------------------------------------+
 |   .-.         .-.         .-.         |
 |  /   \       /   \       /   \        |

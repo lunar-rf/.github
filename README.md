@@ -31,3 +31,5 @@
 |                                       |
 +---------------------------------------+
 ```
+
+![](https://github.com/lunarjournal/stegwasm/blob/master/giffy/int.gif?raw=true)

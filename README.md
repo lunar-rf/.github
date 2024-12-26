@@ -32,4 +32,4 @@
 +---------------------------------------+
 ```
 
-![](https://github.com/lunarjournal/stegwasm/blob/master/giffy/int.gif?raw=true) @ 0xc0ffee machine
+![](https://github.com/lunarjournal/stegwasm/blob/master/giffy/int.gif?raw=true) @ 0xc0ffee source

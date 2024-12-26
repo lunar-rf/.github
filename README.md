@@ -7,8 +7,6 @@
 `Authors`: 
 - [`Dylan Müller`](https://www.linkedin.com/in/dylanmuller)
 
-`Hosted by`: [`Lunar RF Labs`](https://lunar.sh)
-
 ```
 +---------------------------------------+
 |   .-.         .-.         .-.         |

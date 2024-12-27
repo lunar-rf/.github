@@ -31,3 +31,5 @@
 ```
 
 [`0xc0ffee`](https://buymeacoffee.com/lunarjournal)
+
+![](https://github.com/lunarjournal/lunarjournal.github.io/blob/main/images/c0ffee.gif?raw=true)

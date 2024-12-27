@@ -30,4 +30,4 @@
 +---------------------------------------+
 ```
 
-[![](https://github.com/lunarjournal/stegwasm/blob/master/giffy/int.gif?raw=true)](https://github.com/lunarjournal/stegwasm) @`0xc0ffee` land
+[![](https://github.com/lunarjournal/stegwasm/blob/master/giffy/int.gif?raw=true)](https://github.com/lunarjournal/stegwasm) @[`0xc0ffee`](https://buymeacoffee.com/lunarjournal)

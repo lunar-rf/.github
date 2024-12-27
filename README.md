@@ -30,4 +30,4 @@
 +---------------------------------------+
 ```
 
-*[`0xc0ffee`](https://buymeacoffee.com/lunarjournal) ?
+[`0xc0ffee`](https://buymeacoffee.com/lunarjournal) ?

@@ -1,4 +1,4 @@
-`Lunar Journal`: [`journal.lunar.sh`](https://journal.lunar.sh/) [[`info`](https://journal.lunar.sh/info.txt)]
+`Lunar Journal`: [`journal.lunar.sh`](https://journal.lunar.sh/) [[`info`](https://journal.lunar.sh/info.html)]
 
 > Technical journal for engineers, researchers and hobbyists.
 

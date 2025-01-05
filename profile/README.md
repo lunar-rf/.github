@@ -27,4 +27,6 @@ RF research laboratory located in `Cape Town`, `South Africa`.
 
 [`Lunar Journal`](https://github.com/lunarjournal)
 
+> Technical journal for engineers, researchers and hobbyists.
+
 [`journal.lunar.sh`](https://lunar.sh) [[`info`](https://journal.lunar.sh/info.html)]

@@ -1,4 +1,4 @@
-RF research laboratory located in `Cape Town`, `South Africa`.
+RF research laboratory located in [`Cape Town`](https://en.wikipedia.org/wiki/Cape_Town), `South Africa`.
 
 `email`: [`root@lunar.sh`](mailto:root@lunar.sh)
 

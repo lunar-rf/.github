@@ -1,6 +1,6 @@
 RF research laboratory located in `Cape Town`, `South Africa`.
 
-`email`: `root@lunar.sh`
+`email`: [`root@lunar.sh`](mailto:root@lunar.sh)
 
 ```
 +---------------------------------------+

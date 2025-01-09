@@ -1,13 +1,11 @@
 RF research laboratory located in [`Cape Town`](https://en.wikipedia.org/wiki/Cape_Town), `South Africa`.
 
-`email`: [`root@lunar.sh`](mailto:root@lunar.sh)
-
-
-[`Lunar Journal`](https://github.com/lunarjournal)
+[`Lunar Journal`](https://github.com/lunarjournal):
+[`journal.lunar.sh`](https://lunar.sh) [[`info`](https://journal.lunar.sh/info.html)]
 
 > Technical journal for engineers, researchers and hobbyists.
 
-[`journal.lunar.sh`](https://lunar.sh) [[`info`](https://journal.lunar.sh/info.html)]
+`email`: [`root@lunar.sh`](mailto:root@lunar.sh)
 
 ```
 +---------------------------------------+

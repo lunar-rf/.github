@@ -2,6 +2,13 @@ RF research laboratory located in [`Cape Town`](https://en.wikipedia.org/wiki/Ca
 
 `email`: [`root@lunar.sh`](mailto:root@lunar.sh)
 
+
+[`Lunar Journal`](https://github.com/lunarjournal)
+
+> Technical journal for engineers, researchers and hobbyists.
+
+[`journal.lunar.sh`](https://lunar.sh) [[`info`](https://journal.lunar.sh/info.html)]
+
 ```
 +---------------------------------------+
 |   .-.         .-.         .-.         |
@@ -24,9 +31,3 @@ RF research laboratory located in [`Cape Town`](https://en.wikipedia.org/wiki/Ca
 |                                       |
 +---------------------------------------+
 ```
-
-[`Lunar Journal`](https://github.com/lunarjournal)
-
-> Technical journal for engineers, researchers and hobbyists.
-
-[`journal.lunar.sh`](https://lunar.sh) [[`info`](https://journal.lunar.sh/info.html)]

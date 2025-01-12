@@ -1,4 +1,4 @@
-RF research laboratory located in `South Africa`.
+RF research laboratory based in `South Africa`.
 
 `email`: [`root@lunar.sh`](mailto:root@lunar.sh)
 

@@ -4,9 +4,6 @@
 
 `email`: [`root@lunar.sh`](mailto:root@lunar.sh)
 
-`Authors`: 
-- [`Dylan Müller`](https://www.linkedin.com/in/dylanmuller)
-
 ```
 +---------------------------------------+
 |   .-.         .-.         .-.         |

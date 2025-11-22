@@ -1,4 +1,4 @@
-Be sure to check out the following:
+Be sure to check out the following!...
 
 `Lunar Journal`: A technical journal for engineers, researchers and hobbyists.
 

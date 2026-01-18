@@ -22,7 +22,7 @@ Be sure to check out the following!...
 | https://lunar.sh                      |
 |                                       |
 | Research Laboratories                 |
-| OpenAlias (XMR): lunar.sh             |
+| OpenAlias (BTC, XMR): lunar.sh        |
 | Copyright (C) 2022-2024               |
 +---------------------------------------+
 ```

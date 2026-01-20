@@ -2,7 +2,7 @@ Be sure to check out the following!...
 
 `Lunar Journal`: A technical journal for engineers, researchers and hobbyists.
 
-[https://journal.lunar.sh](https://journal.lunar.sh)
+www: [https://journal.lunar.sh](https://journal.lunar.sh)
 
 Tor: `gk7d3cxs3h4jntro5la5ecufglywctmmd4w7ws2xpj3w4kwjljcb4pad.onion`
 
